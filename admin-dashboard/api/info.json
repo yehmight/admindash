@@ -1,0 +1,189 @@
+{
+    "cards": [
+        {
+            "_id": 1,
+            "name": "Sales",
+            "icon": "bi bi-cart",
+            "amount": 145,
+            "percentage": 0.12,
+            "active": true
+        },
+        {
+            "_id": 2,
+            "name": "Revenue",
+            "icon": "bi bi-currency-dollar",
+            "amount": 3246,
+            "percentage": 0.08,
+            "active": false
+        },
+        {
+            "_id": 3,
+            "name": "Customers",
+            "icon": "bi bi-people",
+            "amount": 1244,
+            "percentage": -0.11,
+            "active": false
+        }
+    ],
+    "news": [
+        {
+            "_id": 1,
+            "img": "../assets/items/news-1.jpg",
+            "title": " when the good old days hdh",
+            "subtitle": "llo hhhf dtftftg 7jujgtfgh",
+            "category": "abcd"
+        },
+        {
+            "_id": 2,
+            "img": "../assets/items/news-2.jpg",
+            "title": " when the good old days hdh",
+            "subtitle": "llo hhhf dtftftg 7jujgtfgh",
+            "category": "abcd"
+        },
+        {
+            "_id": 3,
+            "img": "../assets/items/news-3.jpg",
+            "title": " when the good old days hdh",
+            "subtitle": "llo hhhf dtftftg 7jujgtfgh",
+            "category": "abcd"
+        },
+        {
+            "_id": 4,
+            "img": "../assets/items/news-4.jpg",
+            "title": " when the good old days hdh",
+            "subtitle": "llo hhhf dtftftg 7jujgtfgh",
+            "category": "abcd"
+        },
+        {
+            "_id": 5,
+            "img": "../assets/items/news-5.jpg",
+            "title": " when the good old days hdh",
+            "subtitle": "llo hhhf dtftftg 7jujgtfgh",
+            "category": "abcd"
+        }
+    ],
+    "topselling": [
+        {
+            "_id": 1,
+            "preview": "../assets/items/product-1.jpg",
+            "name": "ut indft ipda voloiu mulla",
+            "price": 64,
+            "sold": 98
+        },
+        {
+            "_id": 2,
+            "preview": "../assets/items/product-2.jpg",
+            "name": "ut indft ipda voloiu mulla",
+            "price": 46,
+            "sold": 124
+        },
+        {
+            "_id": 3,
+            "preview": "../assets/items/product-3.jpg",
+            "name": "ut indft ipda voloiu mulla",
+            "price": 59,
+            "sold": 74
+        },
+        {
+            "_id": 4,
+            "preview": "../assets/items/product-4.jpg",
+            "name": "ut indft ipda voloiu mulla",
+            "price": 32,
+            "sold": 64
+        },
+        {
+            "_id": 5,
+            "preview": "../assets/items/product-5.jpg",
+            "name": "ut indft ipda voloiu mulla",
+            "price": 71,
+            "sold": 41
+        }
+    ],
+    "recentsales": [
+        {
+            "_id": 1,
+            "number": "#2457",
+            "Customer": "Bradon Jacob",
+            "product": "At praesentium minu",
+            "price": 64,
+            "status": "Approved"
+        },
+        {
+            "_id": 2,
+            "number": "#2447",
+            "Customer": "Bridie kessler",
+            "product": "Blanditiis dolor omnis similique",
+            "price": 47,
+            "status": "Pending"
+        },
+        {
+            "_id": 3,
+            "number": "#2049",
+            "Customer": "Ashleigh Langosh",
+            "product": "At recusandae consectetur",
+            "price": 147,
+            "status": "Approved"
+        },
+        {
+            "_id": 4,
+            "number": "#2644",
+            "Customer": "Angus Grady",
+            "product": "Ut voluptatem id earum et",
+            "price": 67,
+            "status": "Rejected"
+        },
+        {
+            "_id": 5,
+            "number": "#2644",
+            "Customer": "Raheem Lehner",
+            "product": " Sunt similique distinctio",
+            "price": 147,
+            "status": "Approved"
+        }
+    ],
+    "recentactivity": [
+        {
+            "_id": 1,
+            "time": "32 min",
+            "color": "text-success",
+            "content": "qui dgf f yuhuhu yggy ",
+            "highlight": ""
+        },
+        {
+            "_id": 2,
+            "time": "36 min",
+            "color": "text-danger",
+            "content": "qui dgf f yuhuhu yggy ",
+            "highlight": ""
+        },
+        {
+            "_id": 3,
+            "time": "2 hrs",
+            "color": "text-primary",
+            "content": "qui dgf f yuhuhu yggy ",
+            "highlight": ""
+        },
+        {
+            "_id": 4,
+            "time": "1 day",
+            "color": "text-info",
+            "content": "qui dgf f yuhuhu yggy ",
+            "highlight": "rhg hhhhhhhh hh"
+        },
+        {
+            "_id": 5,
+            "time": "4 weeks",
+            "color": "text-muted",
+            "content": "qui dgf f yuhuhu yggy ",
+            "highlight": ""
+        },
+        {
+            "_id": 1,
+            "time": "32 min",
+            "color": "text-success",
+            "content": "qui dgf f yuhuhu yggy ",
+            "highlight": ""
+        }
+    ]
+
+}
