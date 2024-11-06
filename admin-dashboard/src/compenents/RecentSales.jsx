@@ -11,7 +11,7 @@ const RecentSales = () => {
     };
 
     const fetchData = () => {
-        fetch('http://localhost:4000/recentsales')
+        fetch('http://localhost:5000/recentsales')
             .then(res => res.json())
             .then(data => {
                 setItems(data);
