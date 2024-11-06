@@ -12,7 +12,7 @@ const TopSelling = () => {
     };
 
     const fetchData = () => {
-        fetch('http://localhost:5000/topselling')
+        fetch('https://admindash-backend-qotf.onrender.com/topselling')
             .then(res => res.json())
             .then(data => {
                 setItems(data);
