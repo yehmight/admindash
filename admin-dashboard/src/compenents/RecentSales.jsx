@@ -11,7 +11,7 @@ const RecentSales = () => {
     };
 
     const fetchData = () => {
-        fetch('http://localhost:5000/recentsales')
+        fetch('https://admindash-backend-qotf.onrender.com/recentsales')
             .then(res => res.json())
             .then(data => {
                 setItems(data);
