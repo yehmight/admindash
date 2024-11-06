@@ -15,7 +15,7 @@ const Dashboard = () => {
   const [cards, setCards]=useState([])
 
   const fetchData = () => {
-    fetch('http://localhost:4000/cards')
+    fetch('https://admindash-backend-qotf.onrender.com/cards')
       .then(res => res.json())
       .then(data => {
         setCards(data);
