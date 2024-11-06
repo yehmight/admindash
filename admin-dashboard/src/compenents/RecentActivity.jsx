@@ -11,7 +11,7 @@ const RecentActivity = () => {
         setFilter(filter);
     };
     const fetchData = () => {
-        fetch('http://localhost:5000/recentactivity')
+        fetch('https://admindash-backend-qotf.onrender.com/recentactivity')
             .then(res => res.json())
             .then(data => {
                 setItems(data);
